@@ -1,0 +1,6 @@
+{
+  "name": "Iris SVM - Phân loại & Trực quan hóa",
+  "description": "Website phân loại hoa Iris bằng mô hình SVM với Thử thách đoán hoa, Tự động nhận diện, Phân tích tập dữ liệu, Thí nghiệm & Đánh giá hiệu năng và Lịch sử nhận diện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
